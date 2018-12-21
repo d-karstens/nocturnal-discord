@@ -1,3 +1,4 @@
+/* put your custom css here. */
 .ui-scroller-wrap .scroller::-webkit-scrollbar,
 .scroller-wrap .scroller::-webkit-scrollbar,
 .theme-dark .search-results-wrap .search-result:before,
@@ -57,7 +58,7 @@ div.message-group,
 .search-results-wrap .channel-separator:before,
 .typeWindows-1za-n7 {
   background: #212733 !important;
-  border-bottom: 1px solid #7587a6 !important;
+  border-bottom: 0px solid #7587a6 !important;
   border-radius: 0 !important;
   box-shadow: none !important;
 }
@@ -333,4 +334,18 @@ div.message-group,
 }
 .friends-table .friends-row:hover {
   background: #212733 !important;
+}
+
+.theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:after,
+.theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:before {
+  border-color: #7587a6;
+}
+
+.wordmark-2iDDfm {
+  display: none;
+}
+
+.searchBar-6Kv8R2,
+.header-2o-2hj {
+  box-shadow: 0 0px 0 rgba(56, 61, 68, 0.7), 0 0px 0 rgba(0, 0, 0, 0.06);
 }
