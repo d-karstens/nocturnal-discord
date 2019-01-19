@@ -350,6 +350,35 @@ div.message-group,
   box-shadow: 0 0px 0 rgba(56, 61, 68, 0.7), 0 0px 0 rgba(0, 0, 0, 0.06);
 }
 
-.searchBar-6Kv8R2 {
+.searchBar-6Kv8R2,
+searchBarInner-1_Tg2R,
+searchBar-2_Yu-C,
+searchBarComponent-32dTOx,
+container-3gCOGc,
+scrollerWrap-2lJEkd
+  firefoxFixScrollFlex-cnI2ix
+  stickyScroller-24zUyY
+  scrollerThemed-2oenus
+  themedWithTrack-q8E3vB,
+stickyHeader-1pqx0j header-39GIC8 row-1Lmx44 stickyHeader-r2k9DK {
   background: #212733 !important;
+}
+
+.friendsTable-133bsv {
+  background: #212733 !important;
+  margin-top: 0px;
+}
+
+.theme-dark .header-39GIC8 {
+  background: none;
+}
+
+.icon-3D60ES {
+  display: none;
+}
+
+.dividerContent-2L12VI {
+  &:before {
+    border-color: none;
+  }
 }
