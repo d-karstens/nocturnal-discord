@@ -360,7 +360,8 @@ scrollerWrap-2lJEkd
   stickyScroller-24zUyY
   scrollerThemed-2oenus
   themedWithTrack-q8E3vB,
-stickyHeader-1pqx0j header-39GIC8 row-1Lmx44 stickyHeader-r2k9DK {
+stickyHeader-1pqx0j header-39GIC8 row-1Lmx44 stickyHeader-r2k9DK,
+.emojiPicker-3m1S-j .header-1nkwgG .searchBar-2pWH0_ {
   background: #212733 !important;
 }
 
@@ -381,4 +382,13 @@ stickyHeader-1pqx0j header-39GIC8 row-1Lmx44 stickyHeader-r2k9DK {
   &:before {
     border-color: none;
   }
+}
+
+.typeWindows-1za-n7 {
+  padding-top: 4px;
+  margin-top: 0;
+}
+
+.guildSeparator-1X4GQ1 {
+  display: none;
 }
