@@ -392,3 +392,33 @@ stickyHeader-1pqx0j header-39GIC8 row-1Lmx44 stickyHeader-r2k9DK,
 .guildSeparator-1X4GQ1 {
   display: none;
 }
+
+.tabBar-1E2ExX .primary-3j8BhM {
+  background-color: none !important;
+}
+
+.discriminator {
+  color: #b294bb;
+}
+
+/*status colors*/
+
+.online-2S838R {
+  background-color: #b294bb;
+}
+
+.idle-3DEnRT {
+  background-color: #7587a6;
+}
+
+.offline-3qoTek {
+  display: none;
+}
+
+.dnd-1_xrcq {
+  background-color: #a88085;
+}
+
+.channel-2QD9_O .status-1ibiUI {
+  border: none;
+}

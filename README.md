@@ -1,1 +1,1 @@
-For use with https://github.com/leovoel/BeautifulDiscord
+For use with [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord)
