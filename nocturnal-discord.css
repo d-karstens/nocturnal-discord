@@ -365,7 +365,8 @@ stickyHeader-1pqx0j header-39GIC8 row-1Lmx44 stickyHeader-r2k9DK,
   background: #212733 !important;
 }
 
-.friendsTable-133bsv {
+.friendsTable-133bsv,
+container-1UB9sr {
   background: #212733 !important;
   margin-top: 0px;
 }
@@ -421,4 +422,8 @@ stickyHeader-1pqx0j header-39GIC8 row-1Lmx44 stickyHeader-r2k9DK,
 
 .channel-2QD9_O .status-1ibiUI {
   border: none;
+}
+
+.container-1UB9sr {
+  background: none;
 }
