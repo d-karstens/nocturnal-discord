@@ -332,7 +332,8 @@ div.message-group,
 .friends-table .friends-table-header .friends-column-separator {
   background-color: #212733 !important;
 }
-.friends-table .friends-row:hover {
+.friends-table .friends-row:hover,
+.theme-dark .wrapper-1Rf91z {
   background: #212733 !important;
 }
 
@@ -365,8 +366,7 @@ stickyHeader-1pqx0j header-39GIC8 row-1Lmx44 stickyHeader-r2k9DK,
   background: #212733 !important;
 }
 
-.friendsTable-133bsv,
-container-1UB9sr {
+.friendsTable-133bsv {
   background: #212733 !important;
   margin-top: 0px;
 }
