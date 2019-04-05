@@ -317,7 +317,7 @@ div.message-group,
 .guild-header-open ul {
   opacity: 1 !important;
 }
-.private-channels .search-bar {
+.private-channels, .search-bar, .video-1FfuMD,.theme-dark, .wrapper-29NfPK {
   background: rgba(10, 13, 16, 0) !important;
 }
 .friends-table {
