@@ -352,18 +352,19 @@ div.message-group,
 }
 
 .searchBar-6Kv8R2,
-searchBarInner-1_Tg2R,
-searchBar-2_Yu-C,
-searchBarComponent-32dTOx,
-container-3gCOGc,
-scrollerWrap-2lJEkd
-  firefoxFixScrollFlex-cnI2ix
-  stickyScroller-24zUyY
-  scrollerThemed-2oenus
-  themedWithTrack-q8E3vB,
-stickyHeader-1pqx0j header-39GIC8 row-1Lmx44 stickyHeader-r2k9DK,
-.emojiPicker-3m1S-j .header-1nkwgG .searchBar-2pWH0_ {
+.searchBarInner-1_Tg2R,
+.searchBar-2_Yu-C,
+.searchBarComponent-32dTOx,
+.container-3gCOGc,
+.scrollerWrap-2lJEkd,
+  .firefoxFixScrollFlex-cnI2ix,
+  .stickyScroller-24zUyY,
+  .scrollerThemed-2oenus,
+  .themedWithTrack-q8E3vB,
+.stickyHeader-1pqx0j, .header-39GIC8, .row-1Lmx44, .stickyHeader-r2k9DK,
+.emojiPicker-3m1S-j .header-1nkwgG .searchBar-2pWH0_, .input-2VB9rf, .theme-dark .quickswitcher-3JagVE, .contentDefault-16dKSY {
   background: #212733 !important;
+  border: none;
 }
 
 .friendsTable-133bsv {
@@ -431,3 +432,41 @@ stickyHeader-1pqx0j header-39GIC8 row-1Lmx44 stickyHeader-r2k9DK,
 .wrapper-2lTRaf {
   background: none;
 }
+
+.wrapper-2lTRaf, .homeButton-2Cw51C, .primary-3j8BhM, .header-QKLPzZ, .flex-1O1GKY, .alignCenter-1dQNNs, .activityProfile-2bJRaP, .activity-1ythUs, .tabBarContainer-1s1u-z { 
+  background-color: #212733 !important
+}
+
+.newMessagesBar-mujexs {
+  background-color: #a88085
+}
+
+.theme-dark .connectedAccount-36nQx7, .theme-dark .userInfoSection-2acyCx+.userInfoSection-2acyCx {
+  border-color: #212733 !important
+}
+
+.channel-2QD9_O.selected-1HYmZZ a, .flex-1O1GKY, .alignCenter-1dQNNs {
+  background-color: #615670
+}
+
+.autocomplete-1vrmpx, .autocomplete-i9yVHs {
+  background-color: #212733 !important
+}
+
+.flex-1O1GKY, .alignCenter-1dQNNs
+main_fg =#7587a6
+secondary_fg =#DEDEDE
+main_bg =212733
+sidebar_and_player_bg =#212733
+cover_overlay_and_shadow =#000000
+indicator_fg_and_button_bg =#7587a6
+pressing_fg = #FF5C86
+slider_bg =#3F3C45
+sidebar_indicator_and_hover_button_bg =#DEDEDE
+scrollbar_fg_and_selected_row_bg =#615670
+pressing_button_fg =#DEDEDE
+pressing_button_bg =#383145
+selected_button #=B294BB
+miscellaneous_bg =3#F3C45
+miscellaneous_hover_bg =383145
+preserve_1 =FFFFFF#
