@@ -293,6 +293,7 @@ div.message-group,
   margin: 0 !important;
   padding: 20px 6px 20px 20px !important;
 }
+
 .theme-dark .inner-zqa7da {
   background: #212733 !important;
   border-radius: 0 !important;
@@ -317,9 +318,11 @@ div.message-group,
 .guild-header-open ul {
   opacity: 1 !important;
 }
-.private-channels, .search-bar, .video-1FfuMD,.theme-dark, .wrapper-29NfPK {
+
+.private-channels, .search-bar, .video-1FfuMD, .wrapper-29NfPK {
   background: rgba(10, 13, 16, 0) !important;
 }
+
 .friends-table {
   background: #212733 !important;
   margin-top: 0 !important;
